@@ -12,6 +12,7 @@
 [<img align="left" alt="leopoldgerber | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
 
 ### Languages and Tools (Data Analyst):
 <img align="left" alt="HTML5" height="30px" src="images/python.png" />
@@ -23,17 +24,26 @@
 <img align="left" alt="HTML5" height="30px" src="images/numpy.png" />
 <img align="left" alt="HTML5" height="30px" src="images/pandas.png" />
 
+<br />
+<br />
 
 ### Languages and Tools (Web Developer):
 <img align="left" alt="HTML5" height="30px" src="images/visualcode.png" />
 <img align="left" alt="HTML5" height="30px" src="images/sublime.png" />
 <img align="left" alt="HTML5" height="30px" src="images/html.png" />
 <img align="left" alt="HTML5" height="30px" src="images/css.png" />
+<img align="left" alt="HTML5" height="30px" src="images/js.png" />
+
+<br />
+<br />
+
 
 ### Tools (Web Designer):
 <img align="left" alt="HTML5" height="30px" src="images/ps.png" />
 <img align="left" alt="HTML5" height="30px" src="images/ae.png" />
+<img align="left" alt="HTML5" height="30px" src="images/ai.png" />
 <img align="left" alt="HTML5" height="30px" src="images/figma.png" />
+<img align="left" alt="HTML5" height="30px" src="images/coreldraw.png" />
 
 
 
