@@ -13,15 +13,24 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools (Data Analyst):
 <img align="left" alt="HTML5" height="30px" src="images/python.png" />
 <img align="left" alt="HTML5" height="30px" src="images/jupyter.png" />
 <img align="left" alt="HTML5" height="30px" src="images/sql.png" />
 <img align="left" alt="HTML5" height="30px" src="images/powerbi.png" />
+<img align="left" alt="HTML5" height="30px" src="images/matplotlib.png" />
+<img align="left" alt="HTML5" height="30px" src="images/seaborn.png" />
+<img align="left" alt="HTML5" height="30px" src="images/numpy.png" />
+<img align="left" alt="HTML5" height="30px" src="images/pandas.png" />
+
+
+### Languages and Tools (Web Developer):
 <img align="left" alt="HTML5" height="30px" src="images/visualcode.png" />
 <img align="left" alt="HTML5" height="30px" src="images/sublime.png" />
 <img align="left" alt="HTML5" height="30px" src="images/html.png" />
 <img align="left" alt="HTML5" height="30px" src="images/css.png" />
+
+### Tools (Web Designer):
 <img align="left" alt="HTML5" height="30px" src="images/ps.png" />
 <img align="left" alt="HTML5" height="30px" src="images/ae.png" />
 <img align="left" alt="HTML5" height="30px" src="images/figma.png" />
