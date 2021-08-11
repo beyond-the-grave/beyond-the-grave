@@ -1,12 +1,9 @@
 ### Hi there, I'm Leopold Gerber - aka [beyond-the-grave][website] 👋
 
-[![Website](https://img.shields.io/website?up_message=leopoldgerber.com)](https://leopoldgerber.com)
+## I'm a Data Analyst, Web Developer, and Web Designer!
 
-## I'm a Husband, Developer, and Teacher!!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- I’m currently studying to be a Data Scientist
+- I worked as Web Developer in Proxy Agency
 
 ### Connect with me:
 
