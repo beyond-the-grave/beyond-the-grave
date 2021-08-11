@@ -19,9 +19,12 @@
 <img align="left" alt="HTML5" height="30px" src="images/sql.png" />
 <img align="left" alt="HTML5" height="30px" src="images/powerbi.png" />
 <img align="left" alt="HTML5" height="30px" src="images/visualcode.png" />
-<img align="left" alt="HTML5" height="30px" src="images/visualcode.png" />
+<img align="left" alt="HTML5" height="30px" src="images/sublime.png" />
 <img align="left" alt="HTML5" height="30px" src="images/html.png" />
 <img align="left" alt="HTML5" height="30px" src="images/css.png" />
+<img align="left" alt="HTML5" height="30px" src="images/ps.png" />
+<img align="left" alt="HTML5" height="30px" src="images/ae.png" />
+<img align="left" alt="HTML5" height="30px" src="images/figma.png" />
 
 
 
